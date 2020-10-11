@@ -1,0 +1,7 @@
+C:\Users\Ante Ujcic\source\repos\Kartaskaigra\Kartaskaigra\obj\Debug\Kartaskaigra.csprojAssemblyReference.cache
+C:\Users\Ante Ujcic\source\repos\Kartaskaigra\Kartaskaigra\obj\Debug\Kartaskaigra.csproj.CoreCompileInputs.cache
+C:\Users\Ante Ujcic\source\repos\Kartaskaigra\Kartaskaigra\bin\Debug\Kartaskaigra.exe.config
+C:\Users\Ante Ujcic\source\repos\Kartaskaigra\Kartaskaigra\bin\Debug\Kartaskaigra.exe
+C:\Users\Ante Ujcic\source\repos\Kartaskaigra\Kartaskaigra\bin\Debug\Kartaskaigra.pdb
+C:\Users\Ante Ujcic\source\repos\Kartaskaigra\Kartaskaigra\obj\Debug\Kartaskaigra.exe
+C:\Users\Ante Ujcic\source\repos\Kartaskaigra\Kartaskaigra\obj\Debug\Kartaskaigra.pdb
